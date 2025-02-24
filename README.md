@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,8 +18,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
