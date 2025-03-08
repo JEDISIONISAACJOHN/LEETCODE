@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1170-shortest-common-supersequence) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
