@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
