@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2145-grid-game](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2145-grid-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 ## Heap (Priority Queue)
