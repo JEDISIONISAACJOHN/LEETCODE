@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0679-24-game](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1500-count-largest-group) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
