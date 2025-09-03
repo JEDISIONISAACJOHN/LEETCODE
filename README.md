@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3430-count-days-without-meetings](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Stack
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2998-count-symmetric-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -353,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
