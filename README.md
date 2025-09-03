@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Stack
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -364,4 +368,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
