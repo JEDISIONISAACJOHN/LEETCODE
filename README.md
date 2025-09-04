@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0368-largest-divisible-subset](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [2048-build-array-from-permutation](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1876-map-of-highest-peak) |
