@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1876-map-of-highest-peak) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
