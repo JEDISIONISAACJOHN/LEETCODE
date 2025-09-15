@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1500-count-largest-group) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0768-partition-labels) |
 | [1006-vowel-spellchecker](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1170-shortest-common-supersequence](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1170-shortest-common-supersequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
