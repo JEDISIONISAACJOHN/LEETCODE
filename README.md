@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3827-implement-router](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3827-implement-router](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
+| [3827-implement-router](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3827-implement-router) |
 ## Union Find
 |  |
 | ------- |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [3827-implement-router](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -390,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
