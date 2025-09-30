@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2649-count-total-number-of-colored-cells) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [2048-build-array-from-permutation](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
