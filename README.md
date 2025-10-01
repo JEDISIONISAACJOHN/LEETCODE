@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [1642-water-bottles](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
