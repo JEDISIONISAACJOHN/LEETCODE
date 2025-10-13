@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3827-implement-router](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3830-find-closest-person](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Queue
 |  |
 | ------- |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -429,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [3827-implement-router](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3827-implement-router) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
