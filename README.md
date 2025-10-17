@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -443,5 +446,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
