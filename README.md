@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1500-count-largest-group) |
 | [2023-design-movie-rental-system](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2023-design-movie-rental-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1396-count-servers-that-communicate) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
