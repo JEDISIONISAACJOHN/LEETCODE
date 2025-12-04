@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0059-spiral-matrix-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0368-largest-divisible-subset) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1876-map-of-highest-peak) |
