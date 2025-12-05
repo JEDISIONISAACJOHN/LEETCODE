@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0120-triangle) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
