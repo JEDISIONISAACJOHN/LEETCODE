@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0086-partition-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0086-partition-list) |
 | [0768-partition-labels](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
@@ -511,5 +512,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0086-partition-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
