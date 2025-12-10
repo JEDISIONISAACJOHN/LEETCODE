@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1006-vowel-spellchecker](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1006-vowel-spellchecker) |
+| [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1293-three-consecutive-odds) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0086-partition-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
