@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
@@ -521,9 +523,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0086-partition-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [2487-remove-nodes-from-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
