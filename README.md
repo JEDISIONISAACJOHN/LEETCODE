@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0768-partition-labels) |
 | [1006-vowel-spellchecker](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1006-vowel-spellchecker) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
