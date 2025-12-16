@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [2023-design-movie-rental-system](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [3827-implement-router](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3827-implement-router) |
 ## Bitmask
