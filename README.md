@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [2023-design-movie-rental-system](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [3827-implement-router](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3827-implement-router) |
