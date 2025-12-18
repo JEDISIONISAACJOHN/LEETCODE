@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0679-24-game](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0830-largest-triangle-area) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
