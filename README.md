@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1377-frog-position-after-t-seconds](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1377-frog-position-after-t-seconds) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0337-house-robber-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1377-frog-position-after-t-seconds](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1377-frog-position-after-t-seconds) |
 | [1396-count-servers-that-communicate](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1377-frog-position-after-t-seconds](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1377-frog-position-after-t-seconds) |
 | [1396-count-servers-that-communicate](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1876-map-of-highest-peak) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1377-frog-position-after-t-seconds](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1377-frog-position-after-t-seconds) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
