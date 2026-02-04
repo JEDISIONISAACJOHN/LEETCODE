@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3640-trionic-array-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
+| [3640-trionic-array-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3640-trionic-array-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
 |  |
