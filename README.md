@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2681-put-marbles-in-bags) |
