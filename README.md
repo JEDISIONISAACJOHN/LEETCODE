@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1377-frog-position-after-t-seconds](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1377-frog-position-after-t-seconds) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3863-power-grid-maintenance](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JEDISIONISAACJOHN/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
